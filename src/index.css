@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .align-element {
+    @apply mx-auto max-w-7xl px-8;
+  }
+}
+.profileimg {
+  border-radius: 120px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border: 10px;
+  border-color: aquamarine;
+}
