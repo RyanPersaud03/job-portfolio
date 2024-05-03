@@ -70,7 +70,7 @@ export const projects = [
   {
     id: nanoid(),
     img: techBlogImage,
-    url: "https://react-projects.netlify.app/",
+    url: "https://warm-scrubland-17834-82325dd2daba.herokuapp.com/",
     github: "https://github.com/RyanPersaud03/tech-blog",
     title: "Tech Blog | FullStack",
     text: "Created a custom blog site with authentication, comments, and posts, using Express.js, Sequelize, and Handlebars.js. Deployed to Heroku.",
@@ -78,7 +78,7 @@ export const projects = [
   {
     id: nanoid(),
     img: socialmedia,
-    url: "https://github.com/RyanPersaud03/social-network-api",
+    url: "https://drive.google.com/file/d/1gJNgHAy6JOw7mfto1phN4SOlIO-uXKvi/view",
     github: "https://github.com/RyanPersaud03/social-network-api",
     title: "Social-Network-API | Back-end",
     text: "Built a social network API with Express.js and MongoDB. Users can share thoughts, react, and manage friend lists. Includes walkthrough video",
@@ -86,7 +86,7 @@ export const projects = [
   {
     id: nanoid(),
     img: workday,
-    url: "https://react-projects.netlify.app/",
+    url: "https://ryanpersaud03.github.io/work-day-scheduler/",
     github: "https://github.com/RyanPersaud03/work-day-scheduler",
     title: "Workday Scheduler | Front-end",
     text: "Developed a browser-based calendar app using jQuery for dynamic HTML/CSS. Users can save events for each hour of a typical working day (9am–5pm).",
